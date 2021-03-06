@@ -1,5 +1,7 @@
 # interactive-pricing-component
 
+(Live demo)[https://interactive-pricing-component-ecru.vercel.app/]
+
 ## Project setup
 ```
 npm install
